@@ -1,4 +1,4 @@
-# ACOPOStrak-Inkscape-Template[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# ACOPOStrak-Inkscape-Template[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 Inkscape - Template for B&amp;R ACOPOStrak - System
 
 Use Open Source Tool ['Inkscape'](https://inkscape.org/en/) to draw [ACOPOS-Trak-Systems](https://www.br-automation.com/en/products/versatile-transport-systems/acopostrak/)
