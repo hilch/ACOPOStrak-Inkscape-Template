@@ -10,6 +10,6 @@ Sample:
 
 ![Screenshot](https://github.com/hilch/ACOPOStrak-Inkscape-Template/blob/master/Screenshot1.PNG)
 
-User 'snap cusp nodes' to move segments and splines to wire them.
+Use 'snap cusp nodes' to move segments and splines to wire them.
 
 ![HowTo](https://github.com/hilch/ACOPOStrak-Inkscape-Template/blob/master/howto.gif)
