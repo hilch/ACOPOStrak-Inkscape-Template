@@ -6,10 +6,6 @@ developed by [B&amp;R](https://www.br-automation.com).
 
 ![ACOPOStrak](https://github.com/hilch/ACOPOStrak-Inkscape-Template/blob/master/acopostrak.gif)
 
-Sample:
-
-![Screenshot](https://github.com/hilch/ACOPOStrak-Inkscape-Template/blob/master/Screenshot1.PNG)
-
 ## Using inkscape
 Use 'snap cusp nodes' to exactly place the segments and splines to wire them.
 
